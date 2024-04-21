@@ -12,9 +12,13 @@ Welcome to the future! This application is a chatbot named "Sen's Giang" built w
 
 ## 🚀 Usage
 
-1. Run `build_knowledge.py` to build the knowledge base from uploaded documents. It's like feeding our AI assistant with knowledge! 🍔
-2. Run `main.py` to start the Streamlit application. Let's get this party started! 🎉
-3. Interact with the chatbot through the Streamlit interface. Have fun chatting! 💬
+1. Upload your PDF files to the `uploaded_docs` folder. These documents will be used to build the knowledge base for our AI assistant. It's like giving our AI assistant a good read! 📖
+
+2. Run `build_knowledge.py` to build the knowledge base from the uploaded documents. It's like feeding our AI assistant with knowledge! 🍔
+
+3. Run `main.py` to start the Streamlit application. Let's get this party started! 🎉
+
+4. Interact with the chatbot through the Streamlit interface. Have fun chatting! 💬
 
 ## 🧩 Applying RAG and LLM in NVIDIA
 
