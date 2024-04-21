@@ -1,0 +1,7 @@
+streamlit==1.30.0
+langchain-nvidia-ai-endpoints==0.0.1
+faiss-cpu==1.7.4
+langchain
+unstructured[all-docs]==0.11.2
+openai==0.27.0
+pdfminer.six
