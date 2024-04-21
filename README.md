@@ -44,3 +44,5 @@ This application is designed to respond based on the context provided. If a ques
 ## References
 
 https://github.com/NVIDIA/GenerativeAIExamples
+
+https://www.youtube.com/watch?v=N_OOfkEWcOk
